@@ -1,0 +1,11 @@
+D:\PBO\ProjectCRUD\ProjectCRUD\bin\Debug\ProjectCRUD.exe.config
+D:\PBO\ProjectCRUD\ProjectCRUD\bin\Debug\ProjectCRUD.exe
+D:\PBO\ProjectCRUD\ProjectCRUD\bin\Debug\ProjectCRUD.pdb
+D:\PBO\ProjectCRUD\ProjectCRUD\obj\Debug\project_melindacdr_crud.csprojAssemblyReference.cache
+D:\PBO\ProjectCRUD\ProjectCRUD\obj\Debug\ProjectCRUD.Formlogin.resources
+D:\PBO\ProjectCRUD\ProjectCRUD\obj\Debug\ProjectCRUD.Formdata.resources
+D:\PBO\ProjectCRUD\ProjectCRUD\obj\Debug\ProjectCRUD.Properties.Resources.resources
+D:\PBO\ProjectCRUD\ProjectCRUD\obj\Debug\project_melindacdr_crud.csproj.GenerateResource.cache
+D:\PBO\ProjectCRUD\ProjectCRUD\obj\Debug\project_melindacdr_crud.csproj.CoreCompileInputs.cache
+D:\PBO\ProjectCRUD\ProjectCRUD\obj\Debug\ProjectCRUD.exe
+D:\PBO\ProjectCRUD\ProjectCRUD\obj\Debug\ProjectCRUD.pdb
